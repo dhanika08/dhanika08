@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2546258/screenshots/6249715/girl_with_laptop-01.jpg">
 <h1 align="center">Hi 👋, I'm Dhanika Grover</h1>
-<h3 align="center">Hey, I am Dhanika, a sophomore pursuing a Bachelor's in Computer Engineering from Thapar Institute of Engineering and Technology. I am an enthusiastic and creative person who loves to meet new people, exchanging ideas, and sharing knowledge and positivity. I believe in learning and growing together.</h3>
+<h3 align="center">Hey, I am Dhanika, a 3rd year student pursuing a Bachelor's in Computer Engineering from Thapar Institute of Engineering and Technology. I am an enthusiastic and creative person who loves to meet new people, exchanging ideas, and sharing knowledge and positivity. I believe in learning and growing together.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
